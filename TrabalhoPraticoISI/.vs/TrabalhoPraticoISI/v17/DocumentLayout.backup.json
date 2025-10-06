@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\ISI\\TrabalhoPraticoISI\\",
+  "WorkspaceRootPath": "C:\\TP1ISI\\TP1_ISI_12168\\TrabalhoPraticoISI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4933400C-62DD-459A-A3FB-00328F3519E3}|ISI\\ISI.csproj|c:\\isi\\trabalhopraticoisi\\isi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4933400C-62DD-459A-A3FB-00328F3519E3}|ISI\\ISI.csproj|c:\\tp1isi\\tp1_isi_12168\\trabalhopraticoisi\\isi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4933400C-62DD-459A-A3FB-00328F3519E3}|ISI\\ISI.csproj|solutionrelative:isi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ISI\\TrabalhoPraticoISI\\ISI\\Program.cs",
+              "DocumentMoniker": "C:\\TP1ISI\\TP1_ISI_12168\\TrabalhoPraticoISI\\ISI\\Program.cs",
               "RelativeDocumentMoniker": "ISI\\Program.cs",
-              "ToolTip": "C:\\ISI\\TrabalhoPraticoISI\\ISI\\Program.cs",
+              "ToolTip": "C:\\TP1ISI\\TP1_ISI_12168\\TrabalhoPraticoISI\\ISI\\Program.cs",
               "RelativeToolTip": "ISI\\Program.cs",
-              "ViewState": "AgIAAM8AAAAAAAAAAAAhwOgAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAhwN8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T02:04:06.399Z",
               "EditorCaption": ""

@@ -245,6 +245,7 @@ static async Task<List<dynamic>> ObterDadosMeteoAsync(double lat, double lon, st
     return lista; // pronto para serializar em JSON/CSV/XML
 }
 
+//
 // ---------------------------------------------------------------------------
 // 2) Recolha de dados de múltiplos locais (ex.: Porto e Braga)
 //    → podes adicionar mais chamadas para outras cidades facilmente
