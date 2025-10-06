@@ -1,0 +1,166 @@
+{
+  "medicoes": [
+    {
+      "data_hora": "01-10-2025 18:00",
+      "local": "Aveiro",
+      "temp_c": 10.1,
+      "humidade_per": 81,
+      "vento_kmh": 11.5,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "01-10-2025 17:00",
+      "local": "Beja",
+      "temp_c": 15.9,
+      "humidade_per": 82,
+      "vento_kmh": 10.6,
+      "lat_c": 41.55,
+      "long_c": -8.43
+    },
+    {
+      "data_hora": "01-10-2025 16:00",
+      "local": "Braga",
+      "temp_c": 16.5,
+      "humidade_per": 83,
+      "vento_kmh": 11.7,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "02-10-2025 15:00",
+      "local": "Braganca",
+      "temp_c": 19.5,
+      "humidade_per": 84,
+      "vento_kmh": 11.8,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "02-10-2025 14:00",
+      "local": "C.Branco",
+      "temp_c": 15.1,
+      "humidade_per": 85,
+      "vento_kmh": 11.9,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "02-10-2025 13:00",
+      "local": "Coimbra",
+      "temp_c": 13.2,
+      "humidade_per": 86,
+      "vento_kmh": 11,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "03-10-2025 12:00",
+      "local": "Evora",
+      "temp_c": 22.5,
+      "humidade_per": 87,
+      "vento_kmh": 11.1,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "03-10-2025 11:00",
+      "local": "Faro",
+      "temp_c": 27.1,
+      "humidade_per": 81,
+      "vento_kmh": 11.2,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "03-10-2025 10:00",
+      "local": "Guarda",
+      "temp_c": 29.8,
+      "humidade_per": 88,
+      "vento_kmh": 11.3,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "04-10-2025 09:00",
+      "local": "Leiria",
+      "temp_c": 32.7,
+      "humidade_per": 89,
+      "vento_kmh": 11.4,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "04-10-2025 08:00",
+      "local": "Lisboa",
+      "temp_c": 9.5,
+      "humidade_per": 90,
+      "vento_kmh": 11.5,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "04-10-2025 07:00",
+      "local": "Portalegre",
+      "temp_c": 37.1,
+      "humidade_per": 91,
+      "vento_kmh": 11.6,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "05-10-2025 06:00",
+      "local": "Porto",
+      "temp_c": 25.4,
+      "humidade_per": 37,
+      "vento_kmh": 11.7,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "05-10-2025 05:00",
+      "local": "Santarem",
+      "temp_c": 32.5,
+      "humidade_per": 38,
+      "vento_kmh": 11.8,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "05-10-2025 04:00",
+      "local": "Setubal",
+      "temp_c": 39.5,
+      "humidade_per": 39,
+      "vento_kmh": 11.9,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "06-10-2025 03:00",
+      "local": "V.Castelo",
+      "temp_c": 20.1,
+      "humidade_per": 40,
+      "vento_kmh": 11,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "06-10-2025 02:00",
+      "local": "V.Real",
+      "temp_c": 30.5,
+      "humidade_per": 41,
+      "vento_kmh": 11.1,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "06-10-2025 01:00",
+      "local": "Viseu",
+      "temp_c": 39.2,
+      "humidade_per": 42,
+      "vento_kmh": 11.2,
+      "lat_c": 41.15,
+      "long_c": -8.61
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "source": "open-meteo",
+  "medicoes": [
+    {
+      "data_hora": "06-10-2025 00:00",
+      "local": "Porto",
+      "temp_c": 16.7,
+      "humidade_per": 60,
+      "vento_kmh": 7.4,
+      "lat_c": 41.14,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "06-10-2025 01:00",
+      "local": "Porto",
+      "temp_c": 17,
+      "humidade_per": 52,
+      "vento_kmh": 8.2,
+      "lat_c": 41.14,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "06-10-2025 02:00",
+      "local": "Porto",
+      "temp_c": 17.2,
+      "humidade_per": 50,
+      "vento_kmh": 8.7,
+      "lat_c": 41.14,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "06-10-2025 03:00",
+      "local": "Porto",
+      "temp_c": 17.9,
+      "humidade_per": 49,
+      "vento_kmh": 10.2,
+      "lat_c": 41.14,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "06-10-2025 04:00",
+      "local": "Porto",
+      "temp_c": 18,
+      "humidade_per": 47,
+      "vento_kmh": 11.9,
+      "lat_c": 41.14,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "06-10-2025 05:00",
+      "local": "Porto",
+      "temp_c": 18.4,
+      "humidade_per": 44,
+      "vento_kmh": 14,
+      "lat_c": 41.14,
+      "long_c": -8.61
+    },
+    {
+      "data_hora": "06-10-2025 00:00",
+      "local": "Braga",
+      "temp_c": 13.9,
+      "humidade_per": 61,
+      "vento_kmh": 6.3,
+      "lat_c": 41.55,
+      "long_c": -8.43
+    },
+    {
+      "data_hora": "06-10-2025 01:00",
+      "local": "Braga",
+      "temp_c": 14,
+      "humidade_per": 61,
+      "vento_kmh": 6.6,
+      "lat_c": 41.55,
+      "long_c": -8.43
+    },
+    {
+      "data_hora": "06-10-2025 02:00",
+      "local": "Braga",
+      "temp_c": 14.2,
+      "humidade_per": 58,
+      "vento_kmh": 7.1,
+      "lat_c": 41.55,
+      "long_c": -8.43
+    },
+    {
+      "data_hora": "06-10-2025 03:00",
+      "local": "Braga",
+      "temp_c": 14.2,
+      "humidade_per": 57,
+      "vento_kmh": 6.6,
+      "lat_c": 41.55,
+      "long_c": -8.43
+    },
+    {
+      "data_hora": "06-10-2025 04:00",
+      "local": "Braga",
+      "temp_c": 13.8,
+      "humidade_per": 57,
+      "vento_kmh": 7.2,
+      "lat_c": 41.55,
+      "long_c": -8.43
+    },
+    {
+      "data_hora": "06-10-2025 05:00",
+      "local": "Braga",
+      "temp_c": 13.8,
+      "humidade_per": 56,
+      "vento_kmh": 7.3,
+      "lat_c": 41.55,
+      "long_c": -8.43
+    }
+  ]
+}

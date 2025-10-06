@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<medicoes>
+  <medicao>
+    <data_hora>01-10-2025 18:00</data_hora>
+    <local>Aveiro</local>
+    <temp_c>10.1</temp_c>
+    <humidade_per>81</humidade_per>
+    <vento_kmh>11.5</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>01-10-2025 17:00</data_hora>
+    <local>Beja</local>
+    <temp_c>15.9</temp_c>
+    <humidade_per>82</humidade_per>
+    <vento_kmh>10.6</vento_kmh>
+    <lat_c>41.55</lat_c>
+    <long_c>-8.43</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>01-10-2025 16:00</data_hora>
+    <local>Braga</local>
+    <temp_c>16.5</temp_c>
+    <humidade_per>83</humidade_per>
+    <vento_kmh>11.7</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>02-10-2025 15:00</data_hora>
+    <local>Braganca</local>
+    <temp_c>19.5</temp_c>
+    <humidade_per>84</humidade_per>
+    <vento_kmh>11.8</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>02-10-2025 14:00</data_hora>
+    <local>C.Branco</local>
+    <temp_c>15.1</temp_c>
+    <humidade_per>85</humidade_per>
+    <vento_kmh>11.9</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>02-10-2025 13:00</data_hora>
+    <local>Coimbra</local>
+    <temp_c>13.2</temp_c>
+    <humidade_per>86</humidade_per>
+    <vento_kmh>11</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>03-10-2025 12:00</data_hora>
+    <local>Evora</local>
+    <temp_c>22.5</temp_c>
+    <humidade_per>87</humidade_per>
+    <vento_kmh>11.1</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>03-10-2025 11:00</data_hora>
+    <local>Faro</local>
+    <temp_c>27.1</temp_c>
+    <humidade_per>81</humidade_per>
+    <vento_kmh>11.2</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>03-10-2025 10:00</data_hora>
+    <local>Guarda</local>
+    <temp_c>29.8</temp_c>
+    <humidade_per>88</humidade_per>
+    <vento_kmh>11.3</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>04-10-2025 09:00</data_hora>
+    <local>Leiria</local>
+    <temp_c>32.7</temp_c>
+    <humidade_per>89</humidade_per>
+    <vento_kmh>11.4</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>04-10-2025 08:00</data_hora>
+    <local>Lisboa</local>
+    <temp_c>9.5</temp_c>
+    <humidade_per>90</humidade_per>
+    <vento_kmh>11.5</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>04-10-2025 07:00</data_hora>
+    <local>Portalegre</local>
+    <temp_c>37.1</temp_c>
+    <humidade_per>91</humidade_per>
+    <vento_kmh>11.6</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>05-10-2025 06:00</data_hora>
+    <local>Porto</local>
+    <temp_c>25.4</temp_c>
+    <humidade_per>37</humidade_per>
+    <vento_kmh>11.7</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>05-10-2025 05:00</data_hora>
+    <local>Santarem</local>
+    <temp_c>32.5</temp_c>
+    <humidade_per>38</humidade_per>
+    <vento_kmh>11.8</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>05-10-2025 04:00</data_hora>
+    <local>Setubal</local>
+    <temp_c>39.5</temp_c>
+    <humidade_per>39</humidade_per>
+    <vento_kmh>11.9</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>06-10-2025 03:00</data_hora>
+    <local>V.Castelo</local>
+    <temp_c>20.1</temp_c>
+    <humidade_per>40</humidade_per>
+    <vento_kmh>11</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>06-10-2025 02:00</data_hora>
+    <local>V.Real</local>
+    <temp_c>30.5</temp_c>
+    <humidade_per>41</humidade_per>
+    <vento_kmh>11.1</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+  <medicao>
+    <data_hora>06-10-2025 01:00</data_hora>
+    <local>Viseu</local>
+    <temp_c>39.2</temp_c>
+    <humidade_per>42</humidade_per>
+    <vento_kmh>11.2</vento_kmh>
+    <lat_c>41.15</lat_c>
+    <long_c>-8.61</long_c>
+  </medicao>
+</medicoes>
