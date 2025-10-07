@@ -1,0 +1,1 @@
+{"data":[{"data_hora":"05-10-2025 14:00","temp_c":24.5,"local":"Setubal"}]}

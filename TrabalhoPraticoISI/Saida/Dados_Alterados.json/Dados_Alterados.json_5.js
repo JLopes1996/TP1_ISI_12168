@@ -1,0 +1,1 @@
+{"data":[{"data_hora":"03-10-2025 06:00","temp_c":16.7,"local":"Evora"}]}

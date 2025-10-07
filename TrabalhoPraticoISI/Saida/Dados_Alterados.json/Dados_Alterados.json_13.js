@@ -1,0 +1,1 @@
+{"data":[{"data_hora":"02\/10\/2025 04:00","temp_c":14.5,"local":"C.Branco"}]}

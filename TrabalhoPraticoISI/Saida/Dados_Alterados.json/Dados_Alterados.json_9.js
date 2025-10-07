@@ -1,0 +1,1 @@
+{"data":[{"data_hora":"04-10-2025 11:00","temp_c":21.2,"local":"Portalegre"}]}

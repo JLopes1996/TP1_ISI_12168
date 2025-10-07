@@ -1,0 +1,1 @@
+{"data":[{"data_hora":"02-10-2025 03:00","temp_c":13.4,"local":"Braganca"}]}

@@ -1,0 +1,1 @@
+{"data":[{"data_hora":"04-10-2025 10:00","temp_c":20.1,"local":"Lisboa"}]}
