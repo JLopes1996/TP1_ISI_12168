@@ -1,1 +1,0 @@
-{"data":[{"data_hora":"06-10-2025 17:00","temp_c":27.8,"local":"Viseu"}]}

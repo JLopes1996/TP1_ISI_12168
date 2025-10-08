@@ -1,1 +1,0 @@
-{"data":[{"data_hora":"34-20-2025 12:00","temp_c":22.3,"local":"Porto"}]}

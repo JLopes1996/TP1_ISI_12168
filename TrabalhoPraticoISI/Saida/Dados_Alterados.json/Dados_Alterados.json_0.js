@@ -1,1 +1,0 @@
-{"data":[{"data_hora":"01-10-2025 00:00","temp_c":10.1,"local":"Aveiro"}]}

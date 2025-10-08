@@ -1,0 +1,6 @@
+Nome_Cliente;Total_Vendas;Media_Vendas;Qtd_Vendas
+Fernando;50;50;50
+Joana   ;30;30;30
+João    ;10;10;10
+Martinho;40;40;40
+Rodrigo ;20;20;20

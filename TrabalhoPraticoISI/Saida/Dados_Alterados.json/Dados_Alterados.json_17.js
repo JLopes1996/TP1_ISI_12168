@@ -1,1 +1,0 @@
-{"data":[{"data_hora":"06-10-2025 26:00","temp_c":26.7,"local":"V.Real"}]}

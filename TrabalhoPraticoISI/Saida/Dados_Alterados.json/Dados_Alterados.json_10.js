@@ -1,1 +1,0 @@
-{"data":[{"data_hora":"05-10-2025 13:00","temp_c":23.4,"local":"Santarem"}]}

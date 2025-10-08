@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Rows>
+<Row><Nome_Cliente>Fernando</Nome_Cliente> <Total_Vendas>50</Total_Vendas> <Media_Vendas>50</Media_Vendas> <Qtd_Vendas>50</Qtd_Vendas></Row>
+<Row><Nome_Cliente>Joana</Nome_Cliente> <Total_Vendas>30</Total_Vendas> <Media_Vendas>30</Media_Vendas> <Qtd_Vendas>30</Qtd_Vendas></Row>
+<Row><Nome_Cliente>João</Nome_Cliente> <Total_Vendas>10</Total_Vendas> <Media_Vendas>10</Media_Vendas> <Qtd_Vendas>10</Qtd_Vendas></Row>
+<Row><Nome_Cliente>Martinho</Nome_Cliente> <Total_Vendas>40</Total_Vendas> <Media_Vendas>40</Media_Vendas> <Qtd_Vendas>40</Qtd_Vendas></Row>
+<Row><Nome_Cliente>Rodrigo</Nome_Cliente> <Total_Vendas>20</Total_Vendas> <Media_Vendas>20</Media_Vendas> <Qtd_Vendas>20</Qtd_Vendas></Row>
+</Rows>

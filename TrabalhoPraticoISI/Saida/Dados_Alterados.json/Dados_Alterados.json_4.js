@@ -1,1 +1,0 @@
-{"data":[{"data_hora":"02-10-2025 05:00","temp_c":15.6,"local":"Coimbra"}]}

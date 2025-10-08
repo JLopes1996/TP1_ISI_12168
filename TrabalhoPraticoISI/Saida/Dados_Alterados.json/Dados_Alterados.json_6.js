@@ -1,1 +1,0 @@
-{"data":[{"data_hora":"03-10-2025 08:00","temp_c":18.9,"local":"Guarda"}]}

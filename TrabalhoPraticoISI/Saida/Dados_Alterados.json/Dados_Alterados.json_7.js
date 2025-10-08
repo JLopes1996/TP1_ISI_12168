@@ -1,1 +1,0 @@
-{"data":[{"data_hora":"04-10-2025 09:00","temp_c":19.0,"local":"Leiria"}]}

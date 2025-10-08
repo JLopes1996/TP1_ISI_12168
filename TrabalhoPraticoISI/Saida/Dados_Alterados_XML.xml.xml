@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Rows>
+<Row><data_e_hora>01-10-2025 00:00</data_e_hora> <localidade>Aveiro</localidade> <temperatura>10.1</temperatura></Row>
+<Row><data_e_hora>01-10-2025 01:00</data_e_hora> <localidade>Beja</localidade> <temperatura>11.2</temperatura></Row>
+<Row><data_e_hora>01-10-2025 02:00</data_e_hora> <localidade>Braga</localidade> <temperatura>12.3</temperatura></Row>
+<Row><data_e_hora>02-10-2025 03:00</data_e_hora> <localidade>Braganca</localidade> <temperatura>13.4</temperatura></Row>
+<Row><data_e_hora>02-10-2025 05:00</data_e_hora> <localidade>Coimbra</localidade> <temperatura>15.6</temperatura></Row>
+<Row><data_e_hora>03-10-2025 06:00</data_e_hora> <localidade>Evora</localidade> <temperatura>16.7</temperatura></Row>
+<Row><data_e_hora>03-10-2025 08:00</data_e_hora> <localidade>Guarda</localidade> <temperatura>18.9</temperatura></Row>
+<Row><data_e_hora>04-10-2025 09:00</data_e_hora> <localidade>Leiria</localidade> <temperatura>19</temperatura></Row>
+<Row><data_e_hora>04-10-2025 10:00</data_e_hora> <localidade>Lisboa</localidade> <temperatura>20.1</temperatura></Row>
+<Row><data_e_hora>04-10-2025 11:00</data_e_hora> <localidade>Portalegre</localidade> <temperatura>21.2</temperatura></Row>
+<Row><data_e_hora>05-10-2025 13:00</data_e_hora> <localidade>Santarem</localidade> <temperatura>23.4</temperatura></Row>
+<Row><data_e_hora>05-10-2025 14:00</data_e_hora> <localidade>Setubal</localidade> <temperatura>24.5</temperatura></Row>
+<Row><data_e_hora>06-10-2025 17:00</data_e_hora> <localidade>Viseu</localidade> <temperatura>27.8</temperatura></Row>
+</Rows>
