@@ -6,12 +6,12 @@
 
 ## Descrição do Projeto
 
-Projeto desenvolvido no âmbito da unidade curricular **Integração de Sistemas de Informação (ISI)** do Instituto Politécnico do Cávado e do Ave.  
+Projeto desenvolvido no âmbito da unidade curricular Integração de Sistemas de Informação (ISI) do Instituto Politécnico do Cávado e do Ave.  
 
 
 ## Objetivos do trabalho
 
-- Consolidar conceitos associados à Integração de Sistemas de Informação usando Dados.
+- Consolidar conceitos associados à Integração de Sistemas de Informação usando dados.
 
 - Analisar e especificar cenários de aplicação de processos de ETL.
 
@@ -28,20 +28,17 @@ Projeto desenvolvido no âmbito da unidade curricular **Integração de Sistemas
 
 ## Estrutura do Projeto
 
-- Entrada (Ficheiros originais):
-    - ficheiro api_json
-    - ficheiro_csv
-    - ficheiro_json
-    - ficheiro_txt
-    - ficheiro_xml
+- Entrada: Ficheiros originais.
 
-- Saída (Ficheiros modificados):
+- Saída: Ficheiros modificados.
 
-- Transformações (Transformações realizadas no Pentaho):
-    - Teste_1
-    - Teste_2
+- Transformações: processo realizados na plataforma pentaho como forma de tratamento de dados.
 
-- Relatório / Documentação do trabalho prático
+- Jobs: automação de processos.
+
+- PowerBi: plataforma utilizada para a visualização do tratamente dos dados.
+
+- Relatório.
 
 - README.md (Descrição do projeto)
 
@@ -56,7 +53,7 @@ Projeto desenvolvido no âmbito da unidade curricular **Integração de Sistemas
 
 - GitHub & GitHub Desktop: controlo de versões do projeto.
 
-- Visual Studio 202: Ambiente de desenvolvimento do projeto.
+- Visual Studio 2022: Ambiente de desenvolvimento do projeto.
 
 
 ## Autor
